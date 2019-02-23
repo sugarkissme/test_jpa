@@ -37,8 +37,5 @@ public class DemoApplicationTests {
         System.out.println("p = " + p);
 
     }
-    public static void mai1(String[] args)  {
-
-    }
 
 }
