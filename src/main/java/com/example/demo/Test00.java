@@ -10,4 +10,10 @@ public class Test00 {
     public static void main(String[] args) {
         SpringApplication.run(DemoApplication.class, args);
     }
+
+    private String name;
+
+
+
+
 }
