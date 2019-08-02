@@ -8,7 +8,7 @@ public class Test02 {
 
     private String mae;
 
-    private String immaster;
+    private String immaster01;
 
 
 
